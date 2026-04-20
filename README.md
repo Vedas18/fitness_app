@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Fitly - Fitness Tracking App
+# Fitness Tracking App
 
 A modern, dark-themed fitness tracking app built with Flutter. Track your workouts, monitor muscle group progress, & stay motivated on your fitness journey.
 
